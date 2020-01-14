@@ -1,1 +1,2 @@
-# mino_playlist_tool
+# Mino Playlist Tool
+

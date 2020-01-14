@@ -1,0 +1,11 @@
+query {
+    tracks(<<params>>) {
+        title
+        artist {
+            title
+        }
+        album {
+            title
+        }
+    }
+}

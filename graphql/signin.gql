@@ -1,0 +1,9 @@
+mutation {
+  signin(input: { username: "<<username>>", password: "<<password>>" }) {
+    user {
+      id
+      username
+    }
+    messages
+  }
+}
